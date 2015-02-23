@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Reaction game
 //
-//  Created by Stan on 2/22/15.
+//  Created by Kyle on 2/22/15.
 //  Copyright (c) 2015 Kyle Noble. All rights reserved.
 //
 
